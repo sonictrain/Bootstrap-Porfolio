@@ -72,10 +72,13 @@ h4 {
 
 #bio {
     /* pattern generated with MagicPattern.design */
-    /* background-color: #000000;
+    background-color: #000000;
     opacity: 1;
     background: radial-gradient(circle, transparent 20%, #000000 20%, #000000 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #000000 20%, #000000 80%, transparent 80%, transparent) 25px 25px, linear-gradient(#0c0c0c 2px, transparent 2px) 0 -1px, linear-gradient(90deg, #0c0c0c 2px, #000000 2px) -1px 0;
-    background-size: 50px 50px, 50px 50px, 25px 25px, 25px 25px; */
+    background-size: 50px 50px, 50px 50px, 25px 25px, 25px 25px;
+}
+
+#bio img {
     height: 300px;
 }
 

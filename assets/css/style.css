@@ -51,10 +51,10 @@ body::before {
     --orange: #F4614D;
 
     /* assigning colors to their roles */
-    --primary-color: var(--black);
-    --tertiary-color: var(--grey);
-    --secondary-color: var(--white);
-    --accent-color: var(--orange);
+    --dark-color: var(--black);
+    --secondary-color: var(--grey);
+    --light-color: var(--white);
+    --primary-color: var(--orange);
 
     /* font style variables */
     --main-font: 'Manrope', sans-serif;

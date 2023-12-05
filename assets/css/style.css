@@ -65,6 +65,11 @@ body::before {
     --small-text: 12px;
 }
 
+/* headings */
+h4 {
+    font-size: var(--medium-text);
+}
+
 #bio {
     /* pattern generated with MagicPattern.design */
     /* background-color: #000000;
@@ -89,4 +94,14 @@ body::before {
 
 i:hover {
     color: var(--orange);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    background: transparent;
+}
+
+.fa-brands, .fa-solid, i {
+    background: transparent;
+}
+
+a {
+    color: inherit;
 }

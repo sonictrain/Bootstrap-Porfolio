@@ -65,8 +65,9 @@ nav {
     border: none;
 }
 .card img {
-    object-fit: cover;
-    object-position: top;
+    background-color: var(--light-color);
+    object-fit: contain;
+    object-position: center;
     height: 250px;
 }
 #main-project {
@@ -105,10 +106,6 @@ a {
 .btn-accent:hover {
     background-color: var(--primary-color);
     color: var(--dark-color);
-}
-
-.techlogo {
-    width: 50px;
 }
 
 @media (min-width: 768px) {

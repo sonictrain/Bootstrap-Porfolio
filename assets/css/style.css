@@ -34,6 +34,7 @@ h4 {
     font-size: var(--medium-text);
 }
 
+/* navbar section*/
 nav {
     background-color: #00000083;
     backdrop-filter: blur(10px);
@@ -45,6 +46,7 @@ nav {
     box-shadow: none;
 }
 
+/* bio section */
 #bio {
     /* pattern generated with MagicPattern.design */
     background-color: #000000;
@@ -61,6 +63,7 @@ nav {
     max-width: 1080px;
 }
 
+/* card section */
 .card {
     border: none;
 }
@@ -98,6 +101,7 @@ a {
     border-right: none;
 }
 
+/* custom button */
 .btn-accent {
     background-color: var(--secondary-color);
     color: var(--light-color);
@@ -108,6 +112,7 @@ a {
     color: var(--dark-color);
 }
 
+/* media query to add right border on horizontal view */
 @media (min-width: 768px) {
     .custom-border-right {
         border-right: 2px solid var(--secondary-color);

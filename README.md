@@ -1,7 +1,7 @@
 # Bootstrap-Porfolio
 Repository of my personal frontend developer portfolio website made with Bootstrap.
 
-Live Website hosted on Github Pages: https://sonictrain.github.io/Bootstrap-Porfolio/
+Live Website hosted on Github Pages: https://sonictrain.github.io/Bootstrap-Portfolio/
 
 ## Table of Contents 
 - [Preview](#preview)
